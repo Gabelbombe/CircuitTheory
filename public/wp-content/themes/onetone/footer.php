@@ -26,20 +26,13 @@
                                   	}
 							?>
 						</div>
-					</div>  
+					</div>
   </div>
 </section>
 <?php }?>
 <footer class="home-footer">
-    	<div class="home-site-info">
-        	<?php printf(__('Powered by <a href="%s">WordPress</a>.','onetone'),esc_url('http://wordpress.org/'));?>
-            <?php
-			if( is_home() || is_front_page()){
-			 printf(__('Designed by <a href="%s">MageeWP Themes</a>.','onetone'),esc_url('http://www.mageewp.com/'));
-			}
-			?>
-		</div>
-    </footer>
+	<div class="home-site-info">&nbsp;</div>
+</footer>
 
 </div>
 <?php

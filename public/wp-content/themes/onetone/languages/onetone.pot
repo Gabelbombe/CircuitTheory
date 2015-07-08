@@ -232,18 +232,6 @@ msgid ""
 "searching can help."
 msgstr ""
 
-#: footer-site.php:3
-#: footer.php:35
-#, php-format
-msgid "Powered by <a href=\"%s\">WordPress</a>."
-msgstr ""
-
-#: footer-site.php:6
-#: footer.php:38
-#, php-format
-msgid "Designed by <a href=\"%s\">MageeWP Themes</a>."
-msgstr ""
-
 #: includes/admin-options.php:219
 msgid "General Options"
 msgstr ""
